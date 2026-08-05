@@ -1,9 +1,11 @@
 name: Auto update vessel data every 15 minutes
 
 on:
+  # Menampilkan tombol Run workflow untuk tes manual
+  workflow_dispatch:
+
+  # Tetap berjalan otomatis setiap 15 menit
   schedule:
-    # Setiap 15 menit pada menit 7, 22, 37, dan 52.
-    # Offset dipakai agar tidak tepat pada awal jam.
     - cron: "7,22,37,52 * * * *"
 
 permissions:
@@ -71,7 +73,7 @@ jobs:
           if len(records) == 0:
               raise Exception(
                   "Parser menghasilkan 0 vessel. "
-                  "Update dibatalkan agar data lama tetap aman."
+                  "Data lama dipertahankan."
               )
 
           if not last_update:
