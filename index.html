@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<title>Smart Vessel Monitoring</title>
+<style>
+:root{--navy:#102f4f;--blue:#176a91;--teal:#00a3a3;--green:#0b9a69;--orange:#e49a24;--red:#d64545;--purple:#7047b5;--bg:#f3f6f9;--border:#dce5ec;--muted:#667482}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:#17212b;font-family:"Segoe UI",Arial,sans-serif}.wrap{max-width:1550px;margin:auto;padding:22px}.hero{display:flex;justify-content:space-between;align-items:center;gap:18px;flex-wrap:wrap;padding:26px 28px;border-radius:16px;color:#fff;background:linear-gradient(125deg,var(--navy),var(--blue),var(--teal));box-shadow:0 10px 28px #102f4f29}.hero h1{margin:0;font-size:30px}.hero p{margin:7px 0 0;opacity:.85}.stamp{padding:10px 14px;border:1px solid #ffffff40;border-radius:10px;background:#ffffff26;font-size:13px}.status{margin:16px 0;padding:11px 14px;border-radius:10px;background:#e8f2f8;color:#15588c;font-size:13px}.status.ok{background:#ddf5eb;color:#08734f}.status.bad{background:#ffe2e2;color:#9a2d2d}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin:18px 0}.card{padding:18px;border:1px solid var(--border);border-left:5px solid var(--blue);border-radius:14px;background:#fff;box-shadow:0 6px 18px #14324b12}.card.green{border-left-color:var(--green)}.card.orange{border-left-color:var(--orange)}.card.red{border-left-color:var(--red)}.card.purple{border-left-color:var(--purple)}.card.teal{border-left-color:var(--teal)}.label{margin-bottom:8px;color:var(--muted);font-size:12px;font-weight:650}.value{color:var(--navy);font-size:29px;font-weight:750}.filters{display:grid;grid-template-columns:2fr repeat(3,minmax(150px,1fr));gap:11px;margin-bottom:18px;padding:16px;border:1px solid var(--border);border-radius:14px;background:#fff}.filters input,.filters select{width:100%;min-height:42px;padding:9px 11px;border:1px solid #cbd6df;border-radius:8px;background:#fff}.title{display:flex;justify-content:space-between;align-items:center;gap:14px;margin:10px 0}.title h2{margin:0;color:var(--navy);font-size:20px}.count{color:var(--muted);font-size:13px}.table-wrap{overflow:auto;border:1px solid var(--border);border-radius:14px;background:#fff;box-shadow:0 6px 18px #14324b0f}table{width:100%;min-width:1350px;border-collapse:collapse}thead{background:var(--navy);color:#fff}th,td{padding:12px 11px;text-align:left;white-space:nowrap;font-size:12px}td{border-bottom:1px solid #e5ebf0;font-size:13px}tbody tr:hover{background:#f2f8fb}.vessel{font-weight:700;color:var(--navy)}.badge{display:inline-block;padding:5px 9px;border-radius:20px;font-size:11px;font-weight:700}.alongside{color:#08734f;background:#ddf5eb}.schedule{color:#15588c;background:#e2eff9}.departed{color:#9a2d2d;background:#ffe2e2}.domestic{color:#8d5700;background:#fff0d4}.international{color:#59349a;background:#eee5ff}.empty{display:none;padding:38px;text-align:center;color:var(--muted)}footer{text-align:center;padding:18px;color:var(--muted);font-size:12px}@media(max-width:850px){.wrap{padding:14px}.filters{grid-template-columns:1fr}.hero{padding:20px}}
+</style>
+</head>
+<body>
+<main class="wrap">
+<section class="hero"><div><h1>Smart Vessel Monitoring</h1><p>Teluk Lamong dan Terminal Petikemas Surabaya</p></div><div id="lastUpdate" class="stamp">Menunggu data terbaru...</div></section>
+<div id="loadStatus" class="status">Dashboard siap. Mengambil data...</div>
+<section class="cards">
+<div class="card"><div class="label">Total Vessel</div><div id="totalVessel" class="value">0</div></div>
+<div class="card green"><div class="label">Vessel Alongside</div><div id="totalAlongside" class="value">0</div></div>
+<div class="card orange"><div class="label">Vessel Schedule</div><div id="totalSchedule" class="value">0</div></div>
+<div class="card red"><div class="label">Departed 24 Hours</div><div id="totalDeparted" class="value">0</div></div>
+<div class="card purple"><div class="label">Domestic Trade</div><div id="totalDomestic" class="value">0</div></div>
+<div class="card purple"><div class="label">International Trade</div><div id="totalInternational" class="value">0</div></div>
+<div class="card teal"><div class="label">TPK Teluk Lamong</div><div id="totalTeluk" class="value">0</div></div>
+<div class="card teal"><div class="label">TPS Surabaya</div><div id="totalTps" class="value">0</div></div>
+</section>
+<section class="filters"><input id="search" type="search" placeholder="Cari vessel, voyage, atau shipping line"><select id="terminal"><option value="">Semua Terminal</option></select><select id="status"><option value="">Semua Status</option></select><select id="trade"><option value="">Semua Trade Type</option></select></section>
+<div class="title"><h2>Vessel Detail</h2><div id="recordCount" class="count">0 data ditampilkan</div></div>
+<section class="table-wrap"><table><thead><tr><th>Terminal</th><th>Status</th><th>Vessel Name</th><th>Vessel Code</th><th>Voyage</th><th>Service</th><th>Trade</th><th>Shipping Line</th><th>ATB / ETB</th><th>ETD / ATD</th><th>Open Stack</th><th>Closing Time</th><th>Last Update</th></tr></thead><tbody id="tableBody"></tbody></table><div id="empty" class="empty">Belum ada data vessel.</div></section>
+<footer>Data diperbarui GitHub Actions setiap 15 menit. Halaman memeriksa data baru setiap 5 menit.</footer>
+</main>
+<script>
+(() => {
+'use strict';
+const DATA_URL='./data.json';
+const REFRESH_MS=5*60*1000;
+let data=[];
+const nf=new Intl.NumberFormat('id-ID');
+const $=id=>document.getElementById(id);
+const txt=(r,f)=>r&&r[f]!=null?String(r[f]):'';
+const esc=v=>String(v).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;');
+function badge(value,type){const n=String(value||'').toLowerCase();let c=type==='trade'?(n.includes('international')?'international':'domestic'):(n.includes('alongside')?'alongside':n.includes('departed')?'departed':'schedule');return `<span class="badge ${c}">${esc(value||'-')}</span>`}
+function reset(id){while($(id).options.length>1)$(id).remove(1)}
+function fill(id,field){[...new Set(data.map(r=>txt(r,field).trim()).filter(Boolean))].sort().forEach(v=>{const o=document.createElement('option');o.value=v;o.textContent=v;$(id).appendChild(o)})}
+function filtered(){const q=$('search').value.trim().toLowerCase(),t=$('terminal').value,s=$('status').value,tr=$('trade').value;return data.filter(r=>{const hay=['VesselName','VesselCode','VoyageIn','VoyageOut','Service','ShippingLine','Terminal'].map(f=>txt(r,f)).join(' ').toLowerCase();return(!q||hay.includes(q))&&(!t||txt(r,'Terminal')===t)&&(!s||txt(r,'VesselStatus')===s)&&(!tr||txt(r,'TradeType')===tr)})}
+function cards(rows){const cs=k=>rows.filter(r=>txt(r,'VesselStatus').toLowerCase().includes(k)).length,ct=k=>rows.filter(r=>txt(r,'TradeType').toLowerCase()===k).length,src=k=>rows.filter(r=>txt(r,'SourceWebsite')===k).length;$('totalVessel').textContent=nf.format(rows.length);$('totalAlongside').textContent=nf.format(cs('alongside'));$('totalSchedule').textContent=nf.format(cs('schedule'));$('totalDeparted').textContent=nf.format(cs('departed'));$('totalDomestic').textContent=nf.format(ct('domestic'));$('totalInternational').textContent=nf.format(ct('international'));$('totalTeluk').textContent=nf.format(src('Teluk Lamong'));$('totalTps').textContent=nf.format(src('TPS Surabaya'))}
+function render(){const rows=filtered();$('tableBody').innerHTML=rows.map(r=>{const voyage=[txt(r,'VoyageIn'),txt(r,'VoyageOut')].filter(Boolean).join(' / '),arrival=txt(r,'ATB')||txt(r,'ETB')||'-',departure=txt(r,'ATD')||txt(r,'ETD')||'-';return `<tr><td>${esc(txt(r,'Terminal')||'-')}</td><td>${badge(txt(r,'VesselStatus'),'status')}</td><td class="vessel">${esc(txt(r,'VesselName')||'-')}</td><td>${esc(txt(r,'VesselCode')||'-')}</td><td>${esc(voyage||'-')}</td><td>${esc(txt(r,'Service')||'-')}</td><td>${badge(txt(r,'TradeType'),'trade')}</td><td>${esc(txt(r,'ShippingLine')||'-')}</td><td>${esc(arrival)}</td><td>${esc(departure)}</td><td>${esc(txt(r,'OpenStack')||'-')}</td><td>${esc(txt(r,'ClosingTime')||'-')}</td><td>${esc(txt(r,'ScrapeTimestamp')||'-')}</td></tr>`}).join('');$('recordCount').textContent=`${nf.format(rows.length)} data ditampilkan`;$('empty').style.display=rows.length?'none':'block';cards(rows)}
+async function load(){const st=$('loadStatus');st.className='status';st.textContent='Mengambil data terbaru...';try{const res=await fetch(`${DATA_URL}?cache=${Date.now()}`,{cache:'no-store'});if(!res.ok)throw new Error(`HTTP ${res.status}`);const obj=await res.json();if(!Array.isArray(obj.records))throw new Error('Format data.json tidak valid');data=obj.records;['terminal','status','trade'].forEach(reset);fill('terminal','Terminal');fill('status','VesselStatus');fill('trade','TradeType');render();$('lastUpdate').textContent=`Data update: ${obj.lastUpdate||'-'} WIB`;st.className='status ok';st.textContent=`Data terbaru berhasil dimuat: ${nf.format(data.length)} vessel.`}catch(err){st.className='status bad';st.textContent=`Gagal mengambil data: ${err.message}`;console.error(err)}}
+['search','terminal','status','trade'].forEach(id=>$(id).addEventListener(id==='search'?'input':'change',render));load();setInterval(load,REFRESH_MS);
+})();
+</script>
+</body>
+</html>
