@@ -2,39 +2,103 @@ name: Update vessel data
 
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    # Setiap 15 menit
+    # GitHub Actions memakai UTC,
+    # tetapi interval 15 menit tetap sama.
+    - cron: "*/15 * * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: vessel-data-update
-  cancel-in-progress: true
+  group: smart-vessel-data-update
+  cancel-in-progress: false
 
 jobs:
-  update:
+  update-vessel-data:
+    name: Update vessel data
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - name: Checkout repository
+      - name: Checkout main branch
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: pip
+          cache: "pip"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Generate data.json
-        run: python parser.py
+      - name: Generate latest data.json
+        run: |
+          python parser.py
 
-      - name: Commit updated data
+      - name: Validate data.json
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          file_path = Path("data.json")
+
+          if not file_path.exists():
+              raise Exception(
+                  "data.json tidak berhasil dibuat."
+              )
+
+          with file_path.open(
+              "r",
+              encoding="utf-8"
+          ) as file:
+              payload = json.load(file)
+
+          records = payload.get("records")
+          last_update = payload.get("lastUpdate")
+
+          if not isinstance(records, list):
+              raise Exception(
+                  "records pada data.json bukan list."
+              )
+
+          if len(records) == 0:
+              raise Exception(
+                  "Parser menghasilkan 0 vessel. "
+                  "data.json tidak akan diperbarui."
+              )
+
+          if not last_update:
+              raise Exception(
+                  "lastUpdate tidak ditemukan."
+              )
+
+          print("Last update :", last_update)
+          print("Total vessel:", len(records))
+          PY
+
+      - name: Commit and push latest data
         run: |
           git config user.name "smart-vessel-bot"
           git config user.email "actions@users.noreply.github.com"
+
           git add data.json
-          git diff --cached --quiet || git commit -m "Update vessel data"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan pada data.json."
+            exit 0
+          fi
+
+          git commit -m "Auto update vessel data"
+
+          git pull --rebase origin main
+          git push origin main
