@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/08/2026 13:01:32",
+  "lastUpdate": "16/08/2026 14:45:53",
   "totalRecords": 53,
   "records": [
     {
@@ -20,7 +20,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-DEPARTED24H-TAKA005-356-357",
@@ -40,7 +40,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-DEPARTED24H-HIJE017-12-261326",
@@ -60,7 +60,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-DEPARTED24H-MELO058-SB223N-SB223N",
@@ -80,7 +80,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-DEPARTED24H-BEMA017-4526-4526",
@@ -100,7 +100,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-PGGL005-11-261226",
@@ -117,10 +117,10 @@
       "ATB": "16/08/2026 10:20",
       "ATD": "",
       "ETB": "",
-      "ETD": "17/08/2026 11:00",
+      "ETD": "17/08/2026 13:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-MELA175-4826-4826",
@@ -137,10 +137,10 @@
       "ATB": "16/08/2026 06:25",
       "ATD": "",
       "ETB": "",
-      "ETD": "16/08/2026 22:00",
+      "ETD": "17/08/2026 03:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-LIBA078-7026-7026",
@@ -157,10 +157,10 @@
       "ATB": "16/08/2026 06:20",
       "ATD": "",
       "ETB": "",
-      "ETD": "16/08/2026 18:00",
+      "ETD": "16/08/2026 17:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-SUER007-2611S-2611N",
@@ -177,10 +177,10 @@
       "ATB": "16/08/2026 02:52",
       "ATD": "",
       "ETB": "",
-      "ETD": "17/08/2026 02:00",
+      "ETD": "17/08/2026 06:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-WA51017-E046-W047",
@@ -200,7 +200,7 @@
       "ETD": "17/08/2026 00:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-ALDI001-0001-0001",
@@ -220,47 +220,7 @@
       "ETD": "20/08/2026 06:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
-    },
-    {
-      "RecordKey": "TL-VESSELSCHEDULE-MELE067-11-11",
-      "SourceWebsite": "Teluk Lamong",
-      "Terminal": "TPK Teluk Lamong",
-      "VesselStatus": "Vessel Schedule",
-      "VesselName": "MERATUS PALEMBANG",
-      "VesselCode": "MELE067",
-      "VoyageIn": "11",
-      "VoyageOut": "11",
-      "Service": "FMI-AMA",
-      "TradeType": "DOMESTIC",
-      "ShippingLine": "FREEPORT INDONESIA PT.",
-      "ATB": "",
-      "ATD": "",
-      "ETB": "16/08/2026 16:00",
-      "ETD": "17/08/2026 15:30",
-      "OpenStack": "11/08/2026 16:00",
-      "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
-    },
-    {
-      "RecordKey": "TL-VESSELSCHEDULE-MEMA190-2526-2526",
-      "SourceWebsite": "Teluk Lamong",
-      "Terminal": "TPK Teluk Lamong",
-      "VesselStatus": "Vessel Schedule",
-      "VesselName": "PRATAMA MAS",
-      "VesselCode": "MEMA190",
-      "VoyageIn": "2526",
-      "VoyageOut": "2526",
-      "Service": "MMM-BDS",
-      "TradeType": "DOMESTIC",
-      "ShippingLine": "PT. MENTARI MAS MULTIMODA",
-      "ATB": "",
-      "ATD": "",
-      "ETB": "16/08/2026 18:00",
-      "ETD": "17/08/2026 05:00",
-      "OpenStack": "13/08/2026 15:00",
-      "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MEKM011-SD136E-SD136E",
@@ -276,11 +236,11 @@
       "ShippingLine": "PT. MERATUS LINE",
       "ATB": "",
       "ATD": "",
-      "ETB": "16/08/2026 23:00",
-      "ETD": "18/08/2026 01:00",
+      "ETB": "17/08/2026 02:00",
+      "ETD": "18/08/2026 03:00",
       "OpenStack": "10/08/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-PEJA143-17-261826",
@@ -297,10 +257,10 @@
       "ATB": "",
       "ATD": "",
       "ETB": "17/08/2026 05:00",
-      "ETD": "18/08/2026 06:00",
+      "ETD": "18/08/2026 07:00",
       "OpenStack": "11/08/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-DIMA001-0426-0426",
@@ -320,7 +280,7 @@
       "ETD": "18/08/2026 03:00",
       "OpenStack": "12/08/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MECA044-AB085-AB085",
@@ -336,11 +296,51 @@
       "ShippingLine": "PT. MERATUS LINE",
       "ATB": "",
       "ATD": "",
-      "ETB": "17/08/2026 09:00",
-      "ETD": "18/08/2026 08:00",
+      "ETB": "17/08/2026 08:00",
+      "ETD": "18/08/2026 06:00",
       "OpenStack": "12/08/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
+    },
+    {
+      "RecordKey": "TL-VESSELSCHEDULE-MELE067-11-11",
+      "SourceWebsite": "Teluk Lamong",
+      "Terminal": "TPK Teluk Lamong",
+      "VesselStatus": "Vessel Schedule",
+      "VesselName": "MERATUS PALEMBANG",
+      "VesselCode": "MELE067",
+      "VoyageIn": "11",
+      "VoyageOut": "11",
+      "Service": "FMI-AMA",
+      "TradeType": "DOMESTIC",
+      "ShippingLine": "FREEPORT INDONESIA PT.",
+      "ATB": "",
+      "ATD": "",
+      "ETB": "17/08/2026 08:00",
+      "ETD": "17/08/2026 22:00",
+      "OpenStack": "11/08/2026 16:00",
+      "ClosingTime": "",
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
+    },
+    {
+      "RecordKey": "TL-VESSELSCHEDULE-MEMA190-2526-2526",
+      "SourceWebsite": "Teluk Lamong",
+      "Terminal": "TPK Teluk Lamong",
+      "VesselStatus": "Vessel Schedule",
+      "VesselName": "PRATAMA MAS",
+      "VesselCode": "MEMA190",
+      "VoyageIn": "2526",
+      "VoyageOut": "2526",
+      "Service": "MMM-BDS",
+      "TradeType": "DOMESTIC",
+      "ShippingLine": "PT. MENTARI MAS MULTIMODA",
+      "ATB": "",
+      "ATD": "",
+      "ETB": "17/08/2026 15:00",
+      "ETD": "18/08/2026 06:00",
+      "OpenStack": "13/08/2026 15:00",
+      "ClosingTime": "",
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MEIU021-GI086E-GI086E",
@@ -360,7 +360,27 @@
       "ETD": "19/08/2026 17:30",
       "OpenStack": "13/08/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
+    },
+    {
+      "RecordKey": "TL-VESSELSCHEDULE-MAGE129-20-262126",
+      "SourceWebsite": "Teluk Lamong",
+      "Terminal": "TPK Teluk Lamong",
+      "VesselStatus": "Vessel Schedule",
+      "VesselName": "MAGELLAN",
+      "VesselCode": "MAGE129",
+      "VoyageIn": "20",
+      "VoyageOut": "26 / 21/26",
+      "Service": "SPI-BLC",
+      "TradeType": "DOMESTIC",
+      "ShippingLine": "PT SALAM PACIFIC INDONESIA LINES",
+      "ATB": "",
+      "ATD": "",
+      "ETB": "18/08/2026 09:00",
+      "ETD": "19/08/2026 03:00",
+      "OpenStack": "15/08/2026 16:00",
+      "ClosingTime": "",
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-CUMA106-4426-4426",
@@ -380,47 +400,27 @@
       "ETD": "19/08/2026 11:00",
       "OpenStack": "14/08/2026 14:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
-      "RecordKey": "TL-VESSELSCHEDULE-TABE196-257-258",
+      "RecordKey": "TL-VESSELSCHEDULE-IFMA100-4226-4226",
       "SourceWebsite": "Teluk Lamong",
       "Terminal": "TPK Teluk Lamong",
       "VesselStatus": "Vessel Schedule",
-      "VesselName": "TANTO BERSINAR",
-      "VesselCode": "TABE196",
-      "VoyageIn": "257",
-      "VoyageOut": "258",
-      "Service": "TAN-BLW",
+      "VesselName": "IFAMA MAS",
+      "VesselCode": "IFMA100",
+      "VoyageIn": "4226",
+      "VoyageOut": "4226",
+      "Service": "TEMAS-UPG",
       "TradeType": "DOMESTIC",
-      "ShippingLine": "PT PBM TANTOKARYA UTAMA",
+      "ShippingLine": "PT. TEMAS SHIPPING",
       "ATB": "",
       "ATD": "",
-      "ETB": "18/08/2026 23:00",
-      "ETD": "20/08/2026 18:00",
+      "ETB": "19/08/2026 01:00",
+      "ETD": "20/08/2026 00:00",
       "OpenStack": "12/08/2026 12:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
-    },
-    {
-      "RecordKey": "TL-VESSELSCHEDULE-ORSA006-18-261926",
-      "SourceWebsite": "Teluk Lamong",
-      "Terminal": "TPK Teluk Lamong",
-      "VesselStatus": "Vessel Schedule",
-      "VesselName": "ORIENTAL SAMUDRA",
-      "VesselCode": "ORSA006",
-      "VoyageIn": "18",
-      "VoyageOut": "26 / 19/26",
-      "Service": "SPI-BLW",
-      "TradeType": "DOMESTIC",
-      "ShippingLine": "PT SALAM PACIFIC INDONESIA LINES",
-      "ATB": "",
-      "ATD": "",
-      "ETB": "19/08/2026 02:00",
-      "ETD": "20/08/2026 09:00",
-      "OpenStack": "14/08/2026 16:00",
-      "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MEPR130-4926-4926",
@@ -436,11 +436,31 @@
       "ShippingLine": "PT. MENTARI MAS MULTIMODA",
       "ATB": "",
       "ATD": "",
-      "ETB": "19/08/2026 03:00",
-      "ETD": "20/08/2026 04:00",
+      "ETB": "19/08/2026 08:00",
+      "ETD": "20/08/2026 09:00",
       "OpenStack": "13/08/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
+    },
+    {
+      "RecordKey": "TL-VESSELSCHEDULE-ORSA006-18-261926",
+      "SourceWebsite": "Teluk Lamong",
+      "Terminal": "TPK Teluk Lamong",
+      "VesselStatus": "Vessel Schedule",
+      "VesselName": "ORIENTAL SAMUDRA",
+      "VesselCode": "ORSA006",
+      "VoyageIn": "18",
+      "VoyageOut": "26 / 19/26",
+      "Service": "SPI-BLW",
+      "TradeType": "DOMESTIC",
+      "ShippingLine": "PT SALAM PACIFIC INDONESIA LINES",
+      "ATB": "",
+      "ATD": "",
+      "ETB": "19/08/2026 13:00",
+      "ETD": "20/08/2026 17:00",
+      "OpenStack": "14/08/2026 16:00",
+      "ClosingTime": "",
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-WA73008-S028-N028",
@@ -460,7 +480,7 @@
       "ETD": "20/08/2026 11:30",
       "OpenStack": "14/08/2026 14:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-LIBE126-BKL0126S-BKL0126N",
@@ -476,11 +496,11 @@
       "ShippingLine": "PT. PULAU LAUT LINE",
       "ATB": "",
       "ATD": "",
-      "ETB": "20/08/2026 06:00",
-      "ETD": "20/08/2026 23:00",
+      "ETB": "20/08/2026 02:00",
+      "ETD": "20/08/2026 17:00",
       "OpenStack": "12/08/2026 05:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-WANT005-2632S-2632N",
@@ -500,27 +520,7 @@
       "ETD": "21/08/2026 09:30",
       "OpenStack": "15/08/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
-    },
-    {
-      "RecordKey": "TL-VESSELSCHEDULE-MEHA219-4226-4226",
-      "SourceWebsite": "Teluk Lamong",
-      "Terminal": "TPK Teluk Lamong",
-      "VesselStatus": "Vessel Schedule",
-      "VesselName": "SAHABAT MAS",
-      "VesselCode": "MEHA219",
-      "VoyageIn": "4226",
-      "VoyageOut": "4226",
-      "Service": "TEMAS-SLW",
-      "TradeType": "DOMESTIC",
-      "ShippingLine": "PT. MENTARI MAS MULTIMODA",
-      "ATB": "",
-      "ATD": "",
-      "ETB": "20/08/2026 11:00",
-      "ETD": "21/08/2026 09:00",
-      "OpenStack": "15/08/2026 15:00",
-      "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-TIIN017-2607S-2607N",
@@ -540,47 +540,67 @@
       "ETD": "21/08/2026 12:00",
       "OpenStack": "15/08/2026 12:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
-      "RecordKey": "TL-VESSELSCHEDULE-MAGE129-20-262126",
+      "RecordKey": "TL-VESSELSCHEDULE-MEHA219-4226-4226",
       "SourceWebsite": "Teluk Lamong",
       "Terminal": "TPK Teluk Lamong",
       "VesselStatus": "Vessel Schedule",
-      "VesselName": "MAGELLAN",
-      "VesselCode": "MAGE129",
-      "VoyageIn": "20",
-      "VoyageOut": "26 / 21/26",
-      "Service": "SPI-BLC",
-      "TradeType": "DOMESTIC",
-      "ShippingLine": "PT SALAM PACIFIC INDONESIA LINES",
-      "ATB": "",
-      "ATD": "",
-      "ETB": "20/08/2026 16:00",
-      "ETD": "21/08/2026 16:00",
-      "OpenStack": "15/08/2026 16:00",
-      "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
-    },
-    {
-      "RecordKey": "TL-VESSELSCHEDULE-IFMA100-4226-4226",
-      "SourceWebsite": "Teluk Lamong",
-      "Terminal": "TPK Teluk Lamong",
-      "VesselStatus": "Vessel Schedule",
-      "VesselName": "IFAMA MAS",
-      "VesselCode": "IFMA100",
+      "VesselName": "SAHABAT MAS",
+      "VesselCode": "MEHA219",
       "VoyageIn": "4226",
       "VoyageOut": "4226",
-      "Service": "TEMAS-UPG",
+      "Service": "TEMAS-SLW",
       "TradeType": "DOMESTIC",
-      "ShippingLine": "PT. TEMAS SHIPPING",
+      "ShippingLine": "PT. MENTARI MAS MULTIMODA",
+      "ATB": "",
+      "ATD": "",
+      "ETB": "20/08/2026 17:00",
+      "ETD": "21/08/2026 15:00",
+      "OpenStack": "15/08/2026 15:00",
+      "ClosingTime": "",
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
+    },
+    {
+      "RecordKey": "TL-VESSELSCHEDULE-LUBA128-526-527",
+      "SourceWebsite": "Teluk Lamong",
+      "Terminal": "TPK Teluk Lamong",
+      "VesselStatus": "Vessel Schedule",
+      "VesselName": "LUMOSO BAHAGIA",
+      "VesselCode": "LUBA128",
+      "VoyageIn": "526",
+      "VoyageOut": "527",
+      "Service": "TAN-LEM",
+      "TradeType": "DOMESTIC",
+      "ShippingLine": "PT PBM TANTOKARYA UTAMA",
       "ATB": "",
       "ATD": "",
       "ETB": "20/08/2026 20:00",
-      "ETD": "21/08/2026 19:00",
+      "ETD": "21/08/2026 10:00",
+      "OpenStack": "15/08/2026 20:00",
+      "ClosingTime": "",
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
+    },
+    {
+      "RecordKey": "TL-VESSELSCHEDULE-TABE196-257-258",
+      "SourceWebsite": "Teluk Lamong",
+      "Terminal": "TPK Teluk Lamong",
+      "VesselStatus": "Vessel Schedule",
+      "VesselName": "TANTO BERSINAR",
+      "VesselCode": "TABE196",
+      "VoyageIn": "257",
+      "VoyageOut": "258",
+      "Service": "TAN-BLW",
+      "TradeType": "DOMESTIC",
+      "ShippingLine": "PT PBM TANTOKARYA UTAMA",
+      "ATB": "",
+      "ATD": "",
+      "ETB": "20/08/2026 23:00",
+      "ETD": "22/08/2026 18:00",
       "OpenStack": "12/08/2026 12:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MAON002-0002S-0002N",
@@ -600,7 +620,7 @@
       "ETD": "22/08/2026 12:00",
       "OpenStack": "16/08/2026 12:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-PEAN164-18-261926",
@@ -616,31 +636,11 @@
       "ShippingLine": "PT SALAM PACIFIC INDONESIA LINES",
       "ATB": "",
       "ATD": "",
-      "ETB": "21/08/2026 20:00",
-      "ETD": "22/08/2026 20:00",
+      "ETB": "21/08/2026 14:59",
+      "ETD": "22/08/2026 02:59",
       "OpenStack": "13/08/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
-    },
-    {
-      "RecordKey": "TL-VESSELSCHEDULE-LUBA128-526-527",
-      "SourceWebsite": "Teluk Lamong",
-      "Terminal": "TPK Teluk Lamong",
-      "VesselStatus": "Vessel Schedule",
-      "VesselName": "LUMOSO BAHAGIA",
-      "VesselCode": "LUBA128",
-      "VoyageIn": "526",
-      "VoyageOut": "527",
-      "Service": "TAN-LEM",
-      "TradeType": "DOMESTIC",
-      "ShippingLine": "PT PBM TANTOKARYA UTAMA",
-      "ATB": "",
-      "ATD": "",
-      "ETB": "22/08/2026 07:00",
-      "ETD": "22/08/2026 23:00",
-      "OpenStack": "15/08/2026 20:00",
-      "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:31"
+      "ScrapeTimestamp": "2026-08-16 14:45:51"
     },
     {
       "RecordKey": "TPS-VESSELALONGSIDE-JOANNA-090S-090N",
@@ -660,7 +660,7 @@
       "ETD": "17/08/2026 00:30",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELALONGSIDE-INFERRO-045E-045W",
@@ -677,10 +677,10 @@
       "ATB": "16/08/2026 00:32",
       "ATD": "",
       "ETB": "",
-      "ETD": "17/08/2026 01:30",
+      "ETD": "16/08/2026 23:30",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-MTTSIBU-256E-256W",
@@ -700,7 +700,7 @@
       "ETD": "14/08/2026 14:00",
       "OpenStack": "09/08/2026 02:00",
       "ClosingTime": "13/08/2026 20:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-OELRUDRA-631S-632N",
@@ -720,7 +720,7 @@
       "ETD": "16/08/2026 19:00",
       "OpenStack": "10/08/2026 07:00",
       "ClosingTime": "15/08/2026 01:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-ZHONGGUFUZHOU-0QAHYS-0QAHZN",
@@ -740,7 +740,7 @@
       "ETD": "17/08/2026 14:00",
       "OpenStack": "10/08/2026 22:00",
       "ClosingTime": "15/08/2026 16:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-CMACGMFORTJAMES-0XLC7S-0XLC8N",
@@ -760,27 +760,27 @@
       "ETD": "18/08/2026 00:30",
       "OpenStack": "05/08/2026 20:00",
       "ClosingTime": "10/08/2026 14:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
-      "RecordKey": "TPS-VESSELSCHEDULE-SINARSULAWESI-092S-092N",
+      "RecordKey": "TPS-VESSELSCHEDULE-MSCIDAII-XI633A-XI634A",
       "SourceWebsite": "TPS Surabaya",
       "Terminal": "Terminal Petikemas Surabaya",
       "VesselStatus": "Vessel Schedule",
-      "VesselName": "SINAR SULAWESI",
+      "VesselName": "MSC IDA II",
       "VesselCode": "",
-      "VoyageIn": "092S",
-      "VoyageOut": "092N",
+      "VoyageIn": "XI633A",
+      "VoyageOut": "XI634A",
       "Service": "",
       "TradeType": "INTERNATIONAL",
       "ShippingLine": "",
       "ATB": "",
       "ATD": "",
-      "ETB": "16/08/2026 23:00",
-      "ETD": "18/08/2026 12:00",
-      "OpenStack": "12/08/2026 00:00",
-      "ClosingTime": "16/08/2026 18:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ETB": "17/08/2026 00:00",
+      "ETD": "18/08/2026 09:30",
+      "OpenStack": "12/08/2026 02:00",
+      "ClosingTime": "16/08/2026 20:00",
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-GSLMAMITSA-018S-018N",
@@ -800,7 +800,7 @@
       "ETD": "17/08/2026 19:30",
       "OpenStack": "11/08/2026 11:00",
       "ClosingTime": "16/08/2026 05:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-EVEROASIS-0488-090S-0488-090N",
@@ -816,31 +816,31 @@
       "ShippingLine": "",
       "ATB": "",
       "ATD": "",
-      "ETB": "17/08/2026 08:00",
-      "ETD": "18/08/2026 04:30",
+      "ETB": "17/08/2026 02:00",
+      "ETD": "18/08/2026 00:30",
       "OpenStack": "12/08/2026 08:00",
       "ClosingTime": "17/08/2026 02:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
-      "RecordKey": "TPS-VESSELSCHEDULE-MSCIDAII-XI633A-XI634A",
+      "RecordKey": "TPS-VESSELSCHEDULE-SINARSULAWESI-092S-092N",
       "SourceWebsite": "TPS Surabaya",
       "Terminal": "Terminal Petikemas Surabaya",
       "VesselStatus": "Vessel Schedule",
-      "VesselName": "MSC IDA II",
+      "VesselName": "SINAR SULAWESI",
       "VesselCode": "",
-      "VoyageIn": "XI633A",
-      "VoyageOut": "XI634A",
+      "VoyageIn": "092S",
+      "VoyageOut": "092N",
       "Service": "",
       "TradeType": "INTERNATIONAL",
       "ShippingLine": "",
       "ATB": "",
       "ATD": "",
-      "ETB": "17/08/2026 16:00",
-      "ETD": "18/08/2026 02:00",
-      "OpenStack": "12/08/2026 02:00",
-      "ClosingTime": "16/08/2026 20:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ETB": "17/08/2026 18:00",
+      "ETD": "19/08/2026 02:30",
+      "OpenStack": "12/08/2026 00:00",
+      "ClosingTime": "16/08/2026 18:00",
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-HONGTAI656-633N-633N",
@@ -860,7 +860,7 @@
       "ETD": "21/08/2026 02:30",
       "OpenStack": "13/08/2026 18:00",
       "ClosingTime": "18/08/2026 12:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-CONTSHIPYEN-2126S-2126S",
@@ -880,7 +880,7 @@
       "ETD": "20/08/2026 04:30",
       "OpenStack": "14/08/2026 16:00",
       "ClosingTime": "19/08/2026 10:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-EVERBIRTH-1205-110A-1205-110A",
@@ -900,7 +900,7 @@
       "ETD": "21/08/2026 08:30",
       "OpenStack": "15/08/2026 08:00",
       "ClosingTime": "20/08/2026 02:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-CMACGMSAINTEANNE-0XLC9S-0XLCAN",
@@ -920,7 +920,7 @@
       "ETD": "22/08/2026 14:30",
       "OpenStack": "15/08/2026 18:00",
       "ClosingTime": "20/08/2026 12:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-WANHAI375-S020-N021",
@@ -940,7 +940,7 @@
       "ETD": "21/08/2026 19:30",
       "OpenStack": "15/08/2026 21:00",
       "ClosingTime": "20/08/2026 15:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-KOTAGANDING-0536S-0536N",
@@ -960,7 +960,7 @@
       "ETD": "23/08/2026 07:30",
       "OpenStack": "16/08/2026 00:00",
       "ClosingTime": "20/08/2026 18:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-MSCVAIGAIII-HV634R-HV634R",
@@ -980,7 +980,7 @@
       "ETD": "22/08/2026 09:30",
       "OpenStack": "16/08/2026 02:00",
       "ClosingTime": "20/08/2026 20:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-SINARSOLO-019S-019N",
@@ -1000,7 +1000,7 @@
       "ETD": "21/08/2026 14:30",
       "OpenStack": "16/08/2026 08:00",
       "ClosingTime": "21/08/2026 02:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-AREZOO-SCY1203-SCY1203",
@@ -1020,7 +1020,7 @@
       "ETD": "22/08/2026 19:30",
       "OpenStack": "17/08/2026 08:00",
       "ClosingTime": "22/08/2026 02:00",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-DEPARTED-WEBACCESSTPSWELCOMETOWEBACCESSWITHGREATSERVICESUSERNAMEPASSWORDFORGOTPASSWORDSIGNINSIGNUPENTERYOURDETAILSTOCREATEYOURACCOUNTFORGOTPASSWORDENTERYOURUSERNAMETORESETYOURPASSWORDSENDLINKCANCELREGISTRATIONCHARGESIMULATIONINSPECTIONSMONITORINGFAQCONTACTUSPROCESSFLOWWEBACCESSSEASPANCALICANTO-160820261136",
@@ -1040,7 +1040,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     },
     {
       "RecordKey": "TPS-DEPARTED-HONGTAI656-160820261115",
@@ -1060,7 +1060,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-08-16 13:01:32"
+      "ScrapeTimestamp": "2026-08-16 14:45:52"
     }
   ]
 }
