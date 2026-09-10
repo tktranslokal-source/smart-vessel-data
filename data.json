@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/09/2026 20:52:54",
+  "lastUpdate": "10/09/2026 21:38:59",
   "totalRecords": 58,
   "records": [
     {
@@ -20,7 +20,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-DEPARTED24H-TADI054-443-444",
@@ -40,7 +40,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-PEIT143-24-262526",
@@ -57,10 +57,10 @@
       "ATB": "10/09/2026 19:48",
       "ATD": "",
       "ETB": "",
-      "ETD": "11/09/2026 16:30",
+      "ETD": "11/09/2026 21:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-TABE197-258-259",
@@ -77,10 +77,10 @@
       "ATB": "10/09/2026 18:18",
       "ATD": "",
       "ETB": "",
-      "ETD": "12/09/2026 15:00",
+      "ETD": "12/09/2026 17:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-WA75007-S021-S021",
@@ -97,10 +97,10 @@
       "ATB": "10/09/2026 15:35",
       "ATD": "",
       "ETB": "",
-      "ETD": "11/09/2026 04:00",
+      "ETD": "11/09/2026 08:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-MEHA220-4526-4526",
@@ -120,7 +120,7 @@
       "ETD": "11/09/2026 01:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-EVLY006-S093-N093",
@@ -137,10 +137,10 @@
       "ATB": "09/09/2026 22:34",
       "ATD": "",
       "ETB": "",
-      "ETD": "10/09/2026 21:00",
+      "ETD": "10/09/2026 22:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-ORSA007-19-262026",
@@ -157,10 +157,10 @@
       "ATB": "09/09/2026 21:30",
       "ATD": "",
       "ETB": "",
-      "ETD": "10/09/2026 17:00",
+      "ETD": "10/09/2026 22:30",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MEKM013-GI088E-GI088E",
@@ -180,7 +180,7 @@
       "ETD": "11/09/2026 17:00",
       "OpenStack": "05/09/2026 17:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MEED066-BG227N-BG227N",
@@ -196,11 +196,11 @@
       "ShippingLine": "PT. MERATUS LINE",
       "ATB": "",
       "ATD": "",
-      "ETB": "10/09/2026 23:00",
-      "ETD": "11/09/2026 12:00",
+      "ETB": "11/09/2026 00:00",
+      "ETD": "11/09/2026 14:00",
       "OpenStack": "05/09/2026 19:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-TAMN009-430-431",
@@ -217,10 +217,10 @@
       "ATB": "",
       "ATD": "",
       "ETB": "11/09/2026 00:00",
-      "ETD": "11/09/2026 00:30",
+      "ETD": "11/09/2026 14:00",
       "OpenStack": "05/09/2026 20:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-TEAS075-5326-5326",
@@ -240,7 +240,7 @@
       "ETD": "12/09/2026 11:00",
       "OpenStack": "04/09/2026 17:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-WANT006-2635S-2635N",
@@ -260,7 +260,7 @@
       "ETD": "12/09/2026 08:00",
       "OpenStack": "05/09/2026 00:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-LIBA082-7826-7826",
@@ -280,7 +280,27 @@
       "ETD": "12/09/2026 05:00",
       "OpenStack": "04/09/2026 14:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
+    },
+    {
+      "RecordKey": "TL-VESSELSCHEDULE-PEJA145-19-262026",
+      "SourceWebsite": "Teluk Lamong",
+      "Terminal": "TPK Teluk Lamong",
+      "VesselStatus": "Vessel Schedule",
+      "VesselName": "PEKAN FAJAR",
+      "VesselCode": "PEJA145",
+      "VoyageIn": "19",
+      "VoyageOut": "26 / 20/26",
+      "Service": "SPI-BRU",
+      "TradeType": "DOMESTIC",
+      "ShippingLine": "PT SALAM PACIFIC INDONESIA LINES",
+      "ATB": "",
+      "ATD": "",
+      "ETB": "12/09/2026 01:00",
+      "ETD": "13/09/2026 06:00",
+      "OpenStack": "07/09/2026 00:00",
+      "ClosingTime": "",
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-WA51018-E047-W048",
@@ -300,27 +320,7 @@
       "ETD": "13/09/2026 02:30",
       "OpenStack": "07/09/2026 01:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
-    },
-    {
-      "RecordKey": "TL-VESSELSCHEDULE-PEJA145-19-262026",
-      "SourceWebsite": "Teluk Lamong",
-      "Terminal": "TPK Teluk Lamong",
-      "VesselStatus": "Vessel Schedule",
-      "VesselName": "PEKAN FAJAR",
-      "VesselCode": "PEJA145",
-      "VoyageIn": "19",
-      "VoyageOut": "26 / 20/26",
-      "Service": "SPI-BRU",
-      "TradeType": "DOMESTIC",
-      "ShippingLine": "PT SALAM PACIFIC INDONESIA LINES",
-      "ATB": "",
-      "ATD": "",
-      "ETB": "12/09/2026 03:00",
-      "ETD": "13/09/2026 08:00",
-      "OpenStack": "07/09/2026 00:00",
-      "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-HIJE019-14-261526",
@@ -340,7 +340,7 @@
       "ETD": "13/09/2026 10:00",
       "OpenStack": "07/09/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MAAU011-CJ031S-CJ031S",
@@ -360,7 +360,7 @@
       "ETD": "12/09/2026 16:30",
       "OpenStack": "07/09/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-IZMA102-4626-4626",
@@ -376,11 +376,11 @@
       "ShippingLine": "PT. TEMAS SHIPPING",
       "ATB": "",
       "ATD": "",
-      "ETB": "12/09/2026 18:00",
-      "ETD": "13/09/2026 21:00",
+      "ETB": "12/09/2026 20:00",
+      "ETD": "13/09/2026 23:00",
       "OpenStack": "07/09/2026 04:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-HMHE005-0012S-0012N",
@@ -400,7 +400,7 @@
       "ETD": "13/09/2026 15:30",
       "OpenStack": "08/09/2026 00:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-DIMA004-1026-1026",
@@ -420,7 +420,7 @@
       "ETD": "14/09/2026 08:00",
       "OpenStack": "08/09/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-SEZE002-0002S-0002N",
@@ -440,7 +440,7 @@
       "ETD": "14/09/2026 10:30",
       "OpenStack": "08/09/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-CUMA107-4926-4926",
@@ -460,7 +460,7 @@
       "ETD": "14/09/2026 19:00",
       "OpenStack": "08/09/2026 12:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-WA75006-N022-N022",
@@ -480,7 +480,7 @@
       "ETD": "14/09/2026 09:00",
       "OpenStack": "09/09/2026 14:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MENU180-7726-7726",
@@ -496,11 +496,11 @@
       "ShippingLine": "PT. MENTARI MAS MULTIMODA",
       "ATB": "",
       "ATD": "",
-      "ETB": "13/09/2026 23:00",
-      "ETD": "14/09/2026 18:00",
+      "ETB": "14/09/2026 01:00",
+      "ETD": "14/09/2026 20:00",
       "OpenStack": "09/09/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MECA048-AB088W-AB089E",
@@ -520,7 +520,7 @@
       "ETD": "15/09/2026 17:00",
       "OpenStack": "09/09/2026 20:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-PEBI004-11-261226",
@@ -540,7 +540,7 @@
       "ETD": "14/09/2026 15:30",
       "OpenStack": "09/09/2026 15:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-SEGO171-3026-3026",
@@ -560,7 +560,7 @@
       "ETD": "15/09/2026 15:00",
       "OpenStack": "08/09/2026 20:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-KMZU028-2608S-2608N",
@@ -580,7 +580,7 @@
       "ETD": "15/09/2026 14:30",
       "OpenStack": "09/09/2026 18:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MEEX188-7126-7126",
@@ -596,11 +596,11 @@
       "ShippingLine": "PT. MENTARI MAS MULTIMODA",
       "ATB": "",
       "ATD": "",
-      "ETB": "14/09/2026 20:00",
-      "ETD": "15/09/2026 16:00",
+      "ETB": "14/09/2026 22:00",
+      "ETD": "15/09/2026 18:00",
       "OpenStack": "09/09/2026 22:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-LAOA074-5426-5426",
@@ -616,11 +616,11 @@
       "ShippingLine": "PT. TEMAS SHIPPING",
       "ATB": "",
       "ATD": "",
-      "ETB": "15/09/2026 16:00",
-      "ETD": "15/09/2026 16:30",
+      "ETB": "15/09/2026 15:00",
+      "ETD": "16/09/2026 16:00",
       "OpenStack": "10/09/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-CHVO010-2608S-2608N",
@@ -640,7 +640,7 @@
       "ETD": "16/09/2026 17:00",
       "OpenStack": "10/09/2026 20:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:53"
+      "ScrapeTimestamp": "2026-09-10 21:38:57"
     },
     {
       "RecordKey": "TPS-VESSELALONGSIDE-INFERRO-046E-046W",
@@ -660,7 +660,7 @@
       "ETD": "11/09/2026 04:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELALONGSIDE-CONTSHIPYEN-2326S-2326S",
@@ -680,7 +680,7 @@
       "ETD": "11/09/2026 11:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELALONGSIDE-APLPUSAN-CS2040S-CS2050N",
@@ -700,7 +700,7 @@
       "ETD": "11/09/2026 02:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELALONGSIDE-MSCELBAIII-HV637R-HV637R",
@@ -720,7 +720,7 @@
       "ETD": "11/09/2026 09:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-KOTAMANIS-0628S-0628N",
@@ -740,7 +740,7 @@
       "ETD": "12/09/2026 04:30",
       "OpenStack": "02/09/2026 00:00",
       "ClosingTime": "06/09/2026 18:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-JOANNA-093S-093N",
@@ -760,7 +760,7 @@
       "ETD": "12/09/2026 15:30",
       "OpenStack": "05/09/2026 08:00",
       "ClosingTime": "10/09/2026 02:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-HONGTAI656-636S-636S",
@@ -780,7 +780,7 @@
       "ETD": "12/09/2026 14:00",
       "OpenStack": "06/09/2026 14:00",
       "ClosingTime": "11/09/2026 08:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-SINARSULAWESI-095S-095N",
@@ -800,7 +800,7 @@
       "ETD": "13/09/2026 09:00",
       "OpenStack": "07/09/2026 00:01",
       "ClosingTime": "11/09/2026 18:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-EVERORIENT-0491-112S-0491-112N",
@@ -820,7 +820,7 @@
       "ETD": "12/09/2026 12:30",
       "OpenStack": "06/09/2026 16:00",
       "ClosingTime": "11/09/2026 10:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-EVEROBEY-0492-057S-0492-057N",
@@ -840,7 +840,7 @@
       "ETD": "13/09/2026 11:00",
       "OpenStack": "07/09/2026 08:00",
       "ClosingTime": "12/09/2026 02:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-ESTREASURE-636N-636N",
@@ -860,7 +860,7 @@
       "ETD": "13/09/2026 19:00",
       "OpenStack": "07/09/2026 08:00",
       "ClosingTime": "12/09/2026 02:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-SPILNIKEN-634S-637N",
@@ -880,7 +880,7 @@
       "ETD": "13/09/2026 14:00",
       "OpenStack": "07/09/2026 23:00",
       "ClosingTime": "12/09/2026 17:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-KOTAHIDAYAH-2628S-2628S",
@@ -900,7 +900,7 @@
       "ETD": "13/09/2026 21:00",
       "OpenStack": "08/09/2026 00:00",
       "ClosingTime": "12/09/2026 18:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-EVERBIRTH-1205-110B-1205-110B",
@@ -920,7 +920,7 @@
       "ETD": "14/09/2026 15:00",
       "OpenStack": "08/09/2026 20:00",
       "ClosingTime": "13/09/2026 14:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-SONGASUCCESS-0055S-0055N",
@@ -940,7 +940,7 @@
       "ETD": "14/09/2026 18:00",
       "OpenStack": "08/09/2026 18:00",
       "ClosingTime": "13/09/2026 12:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-MYDZHANGZHOU-CS2080S-CS2090N",
@@ -960,7 +960,7 @@
       "ETD": "15/09/2026 06:30",
       "OpenStack": "09/09/2026 02:00",
       "ClosingTime": "13/09/2026 20:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-MSCMALENAIII-HC633A-HC635R",
@@ -980,7 +980,7 @@
       "ETD": "14/09/2026 22:00",
       "OpenStack": "09/09/2026 02:00",
       "ClosingTime": "13/09/2026 20:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-WANHAI327-S068-N068",
@@ -1000,7 +1000,7 @@
       "ETD": "15/09/2026 14:00",
       "OpenStack": "09/09/2026 19:00",
       "ClosingTime": "14/09/2026 13:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-HONGTAI656-637N-637N",
@@ -1020,7 +1020,7 @@
       "ETD": "17/09/2026 10:30",
       "OpenStack": "10/09/2026 02:00",
       "ClosingTime": "14/09/2026 20:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-COSCOHAIFA-146S-146N",
@@ -1040,7 +1040,7 @@
       "ETD": "16/09/2026 23:30",
       "OpenStack": "10/09/2026 12:00",
       "ClosingTime": "15/09/2026 06:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-KMTCINCHEON-2608S-2608N",
@@ -1060,7 +1060,7 @@
       "ETD": "18/09/2026 04:30",
       "OpenStack": "12/09/2026 18:00",
       "ClosingTime": "17/09/2026 12:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-KOTAMACHAN-0551S-0551N",
@@ -1080,7 +1080,7 @@
       "ETD": "20/09/2026 04:30",
       "OpenStack": "13/09/2026 00:00",
       "ClosingTime": "17/09/2026 18:00",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-KMTCHAIPHONG-2607S-2607N",
@@ -1100,7 +1100,7 @@
       "ETD": "21/09/2026 00:00",
       "OpenStack": "15/09/2026 07:30",
       "ClosingTime": "20/09/2026 01:30",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-DEPARTED-WEBACCESSTPSWELCOMETOWEBACCESSWITHGREATSERVICESUSERNAMEPASSWORDFORGOTPASSWORDSIGNINSIGNUPENTERYOURDETAILSTOCREATEYOURACCOUNTFORGOTPASSWORDENTERYOURUSERNAMETORESETYOURPASSWORDSENDLINKCANCELREGISTRATIONCHARGESIMULATIONINSPECTIONSMONITORINGFAQCONTACTUSPROCESSFLOWWEBACCESSESTREASURE-100920261332",
@@ -1120,7 +1120,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-DEPARTED-MSCZAINAIII-100920260330",
@@ -1140,7 +1140,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     },
     {
       "RecordKey": "TPS-DEPARTED-SITCDECHENG-090920262313",
@@ -1160,7 +1160,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-09-10 20:52:54"
+      "ScrapeTimestamp": "2026-09-10 21:38:59"
     }
   ]
 }
