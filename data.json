@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2026 01:20:16",
+  "lastUpdate": "29/11/2026 01:48:00",
   "totalRecords": 57,
   "records": [
     {
@@ -20,7 +20,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-DEPARTED24H-PAHA091-27-262826",
@@ -40,7 +40,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-DEPARTED24H-ERJU009-015S-015N",
@@ -60,7 +60,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-DEPARTED24H-MELE070-16-16",
@@ -80,7 +80,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-DEPARTED24H-ASRO010-351S-351N",
@@ -100,7 +100,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-DEPARTED24H-SEGO176-4126-4126",
@@ -120,7 +120,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-DEPARTED24H-LINA002-2611-2611",
@@ -140,7 +140,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-MEDO021-MK471S-ST239N",
@@ -160,7 +160,7 @@
       "ETD": "30/11/2026 11:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-CHVO012-2610S-2610N",
@@ -180,7 +180,7 @@
       "ETD": "29/11/2026 13:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELALONGSIDE-MENU186-9326-9326",
@@ -200,7 +200,7 @@
       "ETD": "29/11/2026 06:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-PEJA150-25-262626",
@@ -220,7 +220,7 @@
       "ETD": "29/11/2026 22:00",
       "OpenStack": "24/11/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-PGGL010-18-261926",
@@ -240,7 +240,7 @@
       "ETD": "30/11/2026 05:00",
       "OpenStack": "20/11/2026 20:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-DIMA013-2826-2826",
@@ -260,7 +260,7 @@
       "ETD": "30/11/2026 03:00",
       "OpenStack": "25/11/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MAON005-0005S-0005N",
@@ -280,7 +280,7 @@
       "ETD": "30/11/2026 12:30",
       "OpenStack": "24/11/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-TABU006-447-448",
@@ -300,7 +300,7 @@
       "ETD": "30/11/2026 20:00",
       "OpenStack": "25/11/2026 18:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MEMA197-4226-4226",
@@ -320,7 +320,7 @@
       "ETD": "30/11/2026 22:00",
       "OpenStack": "26/11/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MEHA226-6326-6326",
@@ -340,7 +340,7 @@
       "ETD": "01/12/2026 09:00",
       "OpenStack": "27/11/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MECA060-AB099W-AB100E",
@@ -360,7 +360,7 @@
       "ETD": "01/12/2026 11:00",
       "OpenStack": "25/11/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-KMHO013-2611S-2611N",
@@ -380,7 +380,7 @@
       "ETD": "01/12/2026 15:00",
       "OpenStack": "25/11/2026 16:30",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MELA183-6926-6926",
@@ -400,7 +400,7 @@
       "ETD": "01/12/2026 18:00",
       "OpenStack": "28/11/2026 15:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-SIBE179-5826-5826",
@@ -420,7 +420,7 @@
       "ETD": "02/12/2026 10:00",
       "OpenStack": "26/11/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-YUFJ001-26002-26002",
@@ -440,7 +440,7 @@
       "ETD": "02/12/2026 00:30",
       "OpenStack": "26/11/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-DEAS001-0426-0426",
@@ -460,7 +460,7 @@
       "ETD": "02/12/2026 15:00",
       "OpenStack": "25/11/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-IFMA106-7026-7026",
@@ -480,7 +480,7 @@
       "ETD": "02/12/2026 14:00",
       "OpenStack": "27/11/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-MEAI030-SD143W-SD144E",
@@ -500,7 +500,7 @@
       "ETD": "02/12/2026 18:30",
       "OpenStack": "26/11/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-ARSE009-24-262526",
@@ -520,7 +520,7 @@
       "ETD": "03/12/2026 00:00",
       "OpenStack": "26/11/2026 05:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-HMAR008-0017S-0017N",
@@ -540,7 +540,7 @@
       "ETD": "03/12/2026 01:30",
       "OpenStack": "27/11/2026 08:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-XIPU008-207E-208W",
@@ -560,7 +560,7 @@
       "ETD": "03/12/2026 22:30",
       "OpenStack": "27/11/2026 11:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-WA73011-S031-N031",
@@ -580,7 +580,7 @@
       "ETD": "03/12/2026 03:30",
       "OpenStack": "27/11/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-KEMA117-8526-8526",
@@ -600,7 +600,7 @@
       "ETD": "03/12/2026 20:20",
       "OpenStack": "25/11/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-LIBE132-BKL0132S-BKL0132N",
@@ -620,7 +620,7 @@
       "ETD": "03/12/2026 19:00",
       "OpenStack": "27/11/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-PEIT153-34-263526",
@@ -640,7 +640,7 @@
       "ETD": "04/12/2026 16:30",
       "OpenStack": "28/11/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-TADI063-451-452",
@@ -660,7 +660,7 @@
       "ETD": "04/12/2026 16:00",
       "OpenStack": "28/11/2026 16:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-TAAM015-431M-431M",
@@ -680,7 +680,7 @@
       "ETD": "04/12/2026 09:45",
       "OpenStack": "29/11/2026 04:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TL-VESSELSCHEDULE-TABE202-263-264",
@@ -700,7 +700,7 @@
       "ETD": "05/12/2026 18:00",
       "OpenStack": "28/11/2026 20:00",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:13"
+      "ScrapeTimestamp": "2026-11-29 01:47:59"
     },
     {
       "RecordKey": "TPS-VESSELALONGSIDE-HONGTAI656-647S-647S",
@@ -720,7 +720,7 @@
       "ETD": "29/11/2026 07:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELALONGSIDE-WANHAI327-S071-N071",
@@ -740,7 +740,7 @@
       "ETD": "29/11/2026 07:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELALONGSIDE-CMACGMPOINTEDUPITON-KCS000S-KCS010N",
@@ -760,7 +760,7 @@
       "ETD": "29/11/2026 07:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELALONGSIDE-SINARSULAWESI-104S-104N",
@@ -780,7 +780,7 @@
       "ETD": "30/11/2026 04:00",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-APLPUSAN-CS20S0S-CS20T0N",
@@ -800,7 +800,7 @@
       "ETD": "29/11/2026 03:30",
       "OpenStack": "23/11/2026 01:00",
       "ClosingTime": "27/11/2026 19:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-INTERASIAENGAGE-S046-N046",
@@ -820,7 +820,7 @@
       "ETD": "29/11/2026 15:30",
       "OpenStack": "23/11/2026 14:00",
       "ClosingTime": "28/11/2026 08:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-SITCBATANGAS-2622S-2623N",
@@ -840,7 +840,7 @@
       "ETD": "29/11/2026 13:30",
       "OpenStack": "23/11/2026 01:00",
       "ClosingTime": "27/11/2026 19:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-WANEN-IDX020N-IDX030S",
@@ -860,7 +860,7 @@
       "ETD": "30/11/2026 08:30",
       "OpenStack": "21/11/2026 01:00",
       "ClosingTime": "25/11/2026 19:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-EVEROPTIMA-0502-052S-0502-052N",
@@ -880,7 +880,7 @@
       "ETD": "30/11/2026 00:30",
       "OpenStack": "23/11/2026 14:00",
       "ClosingTime": "28/11/2026 08:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-EVERBLISS-1216-117B-1216-117B",
@@ -900,7 +900,7 @@
       "ETD": "30/11/2026 18:30",
       "OpenStack": "24/11/2026 12:00",
       "ClosingTime": "29/11/2026 06:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-SEASPANCALICANTO-645S-648N",
@@ -920,7 +920,7 @@
       "ETD": "30/11/2026 10:30",
       "OpenStack": "23/11/2026 23:00",
       "ClosingTime": "28/11/2026 17:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-HONGTAI656-648N-648N",
@@ -940,7 +940,7 @@
       "ETD": "02/12/2026 19:30",
       "OpenStack": "25/11/2026 11:00",
       "ClosingTime": "30/11/2026 05:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-EVERCONSIST-0563-072S-0563-072N",
@@ -960,7 +960,7 @@
       "ETD": "01/12/2026 09:30",
       "OpenStack": "25/11/2026 16:00",
       "ClosingTime": "30/11/2026 10:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-KOTAHIDAYAH-2636S-2636S",
@@ -980,7 +980,7 @@
       "ETD": "03/12/2026 02:30",
       "OpenStack": "26/11/2026 09:00",
       "ClosingTime": "01/12/2026 03:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-MSCCOLETTEIII-XF649R-XF649R",
@@ -1000,7 +1000,7 @@
       "ETD": "02/12/2026 23:30",
       "OpenStack": "26/11/2026 16:00",
       "ClosingTime": "01/12/2026 10:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-SINARSUNDA-251S-251N",
@@ -1020,7 +1020,7 @@
       "ETD": "04/12/2026 03:30",
       "OpenStack": "27/11/2026 08:00",
       "ClosingTime": "02/12/2026 02:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-MSCALIZEEIII-HF646A-HF648R",
@@ -1040,7 +1040,7 @@
       "ETD": "03/12/2026 22:30",
       "OpenStack": "27/11/2026 16:00",
       "ClosingTime": "02/12/2026 10:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-CMACGMINDIAN-KCS020S-KCS030N",
@@ -1060,7 +1060,7 @@
       "ETD": "04/12/2026 14:30",
       "OpenStack": "27/11/2026 18:00",
       "ClosingTime": "02/12/2026 12:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-EVERBEFIT-1219-083A-1219-083A",
@@ -1080,7 +1080,7 @@
       "ETD": "03/12/2026 22:30",
       "OpenStack": "27/11/2026 22:00",
       "ClosingTime": "02/12/2026 16:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-XINYANTAI-276S-276N",
@@ -1100,7 +1100,7 @@
       "ETD": "04/12/2026 13:30",
       "OpenStack": "28/11/2026 00:00",
       "ClosingTime": "02/12/2026 18:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-VESSELSCHEDULE-KOTAMAKMUR-0638S-0638N",
@@ -1120,7 +1120,7 @@
       "ETD": "07/12/2026 05:30",
       "OpenStack": "30/11/2026 03:00",
       "ClosingTime": "04/12/2026 21:00",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     },
     {
       "RecordKey": "TPS-DEPARTED-WEBACCESSTPSWELCOMETOWEBACCESSWITHGREATSERVICESUSERNAMEPASSWORDFORGOTPASSWORDSIGNINSIGNUPENTERYOURDETAILSTOCREATEYOURACCOUNTFORGOTPASSWORDENTERYOURUSERNAMETORESETYOURPASSWORDSENDLINKCANCELREGISTRATIONCHARGESIMULATIONINSPECTIONSMONITORINGFAQCONTACTUSPROCESSFLOWWEBACCESSKMTCHAIPHONG-281120260335",
@@ -1140,7 +1140,7 @@
       "ETD": "",
       "OpenStack": "",
       "ClosingTime": "",
-      "ScrapeTimestamp": "2026-11-29 01:20:15"
+      "ScrapeTimestamp": "2026-11-29 01:48:00"
     }
   ]
 }
